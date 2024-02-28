@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DianPotato
-- 👀 I’m interested in ur ... ur mom (jk)
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ... with ur hands (duh)
-- 😄 Pronouns: ... unknown
-- ⚡ Fun fact: ... A class = Accelarated learning Atrocious at spprt
+hi
+am pro
+r u pro
+ok
+bye
 
 <!---
 DianPotato/DianPotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
